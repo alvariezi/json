@@ -1,0 +1,31 @@
+{
+    "name": "Taufan Alvariezi",
+    "age": 17,
+    "hobby": [
+        "Coding",
+        "Epep",
+        "Futsal"
+    ],
+    "github": {
+        "username": "Alvariezi",
+        "repositories": 1212,
+        "isGDE": true
+    },
+    "articles" : [
+        {
+            "id": 1,
+            "tittle": "Rules HTTPS",
+            "subtitle": "ini game"
+        },
+        {
+            "id": 2,
+            "tittle": "Free Fire",
+            "subtitle": "ini game"
+        },
+        {
+            "id": 1,
+            "tittle": "Upin Apin",
+            "subtitle": "ini film"
+        }
+    ]
+}
